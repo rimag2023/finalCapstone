@@ -64,7 +64,7 @@ Run the application: 'sentiment_analysis_3.py'
 Python 3.12.2
 
 
-## Who maintains the project?
+ Who maintains the project?
 
 The author.
 
