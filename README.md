@@ -74,4 +74,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Acknowledgement
 
-Inspired by sentiment_analysis by doing research online and working on my own own project. 
+Inspired by sentiment_analysis by doing research online and working on my own project. 
