@@ -74,4 +74,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Acknowledgement
 
-Inspired by sentiment_analysis by doing research online and working on my own own project. https://github.com/rimag2023/finalCapstone/edit/main/README.md
+Inspired by sentiment_analysis by doing research online and working on my own own project. 
